@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni12cicegoog/mtulliiciceroni12cicegoog_0312.png"; bbox 0 0 1967 3409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 268 200 646 1370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 268 200 646 1370">
+     <span class='ocr_line' id='line_1_1' title="bbox 268 200 646 1370; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 268 200 646 1370; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 916 1065 1721 1400">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 916 1065 1721 1400">
+     <span class='ocr_line' id='line_1_2' title="bbox 938 1065 1720 1157; baseline 0.065 -50"><span class='ocrx_word' id='word_1_2' title='bbox 938 1066 1176 1121; x_wconf 69' lang='lat' dir='ltr'><strong>aetatem</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1193 1065 1254 1126; x_wconf 84' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_4' title='bbox 1281 1071 1530 1144; x_wconf 62' lang='lat' dir='ltr'><strong>finarum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1555 1094 1720 1157; x_wconf 61' lang='lat' dir='ltr'>venia</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 928 1148 1721 1241; baseline 0.061 -47"><span class='ocrx_word' id='word_1_6' title='bbox 928 1150 1013 1213; x_wconf 79' lang='lat' dir='ltr'>et,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1043 1148 1143 1222; x_wconf 86' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_8' title='bbox 1172 1148 1226 1210; x_wconf 71' lang='lat' dir='ltr'>st</span> <span class='ocrx_word' id='word_1_9' title='bbox 1248 1175 1418 1222; x_wconf 82' lang='lat' dir='ltr'><strong>artem</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1443 1168 1662 1237; x_wconf 81' lang='lat' dir='ltr'>dicendi</span> <span class='ocrx_word' id='word_1_11' title='bbox 1685 1196 1721 1241; x_wconf 73' lang='lat' dir='ltr'>tt</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 925 1238 1721 1346; baseline 0.062 -65"><span class='ocrx_word' id='word_1_12' title='bbox 925 1238 1018 1285; x_wconf 68' lang='lat' dir='ltr'>tm</span> <span class='ocrx_word' id='word_1_13' title='bbox 1033 1240 1261 1300; x_wconf 75' lang='lat' dir='ltr'>caeteris</span> <span class='ocrx_word' id='word_1_14' title='bbox 1275 1249 1721 1346; x_wconf 74' lang='lat' dir='ltr'>profiteatur‚ipst</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 916 1310 1721 1400; baseline 0.06 -35"><span class='ocrx_word' id='word_1_15' title='bbox 916 1310 1146 1387; x_wconf 69' lang='lat' dir='ltr'>piffimic</span> <span class='ocrx_word' id='word_1_16' title='bbox 1154 1324 1382 1398; x_wconf 70' lang='lat' dir='ltr'>judiciis</span> <span class='ocrx_word' id='word_1_17' title='bbox 1403 1348 1721 1400; x_wconf 63' lang='lat' dir='ltr'>conviasse-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
